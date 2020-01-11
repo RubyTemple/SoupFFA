@@ -1,0 +1,2 @@
+# SoupFFA
+simple soupffa plugin
