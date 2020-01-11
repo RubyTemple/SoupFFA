@@ -1,2 +1,4 @@
 # SoupFFA
-simple soupffa plugin
+A Simple Soupffa plugin
+
+###Config
