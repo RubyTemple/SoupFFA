@@ -1,6 +1,6 @@
 <?php
 
-//By RubyTemple 12/01/20
+//RubyTemple 12/01/20
 
 namespace RubyTemple\SoupFFA;
 
