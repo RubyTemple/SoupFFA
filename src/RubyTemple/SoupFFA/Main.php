@@ -1,6 +1,6 @@
 <?php
 
-//By RubyTemple
+//By RubyTemple ita
 
 namespace RubyTemple\SoupFFA;
 
